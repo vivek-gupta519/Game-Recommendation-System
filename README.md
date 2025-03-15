@@ -1,8 +1,11 @@
-Game Recommendation System
-Overview
+**Game Recommendation System**
+
+*Overview*
+
 The Game Recommendation System suggests personalized game recommendations to users based on their preferences, gaming history, and user profile. It leverages machine learning algorithms and collaborative filtering techniques to predict and recommend games that users may enjoy.
 
-Features
+*Features*
+
 Personalized Recommendations: Tailors game suggestions based on individual user preferences and past gaming history.
 Collaborative Filtering: Uses user-item interactions (such as ratings or gameplay history) to make recommendations.
 Content-Based Filtering: Recommends games based on the attributes of games the user has previously enjoyed.
