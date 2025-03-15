@@ -30,15 +30,9 @@ First, create a virtual environment to isolate the project dependencies. Run the
 
 For Windows:
 
-bash
-Copy
-
 python -m venv venv
 
 For macOS/Linux:
-
-bash
-Copy
 
 python3 -m venv venv
 
@@ -48,13 +42,9 @@ Activate the virtual environment using the following command:
 
 For Windows:
 
-bash
-Copy
 .\venv\Scripts\activate
-For macOS/Linux:
 
-bash
-Copy
+For macOS/Linux:
 
 source venv/bin/activate
 
@@ -64,20 +54,10 @@ Install the required Python packages listed in requirements.txt using pip. If th
 
 Install Streamlit:
 
-bash
-Copy
-
 pip install streamlit
-Other dependencies (if provided):
 
-bash
-Copy
-pip install -r requirements.txt
 4. Run the Application
 Start the Streamlit app by running:
-
-bash
-Copy
 
 streamlit run app.py
 This will launch the app in your default web browser.
